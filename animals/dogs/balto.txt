@@ -1,0 +1,3 @@
+Name: Balto
+Species: dog and wolf
+Description: A very very good dog

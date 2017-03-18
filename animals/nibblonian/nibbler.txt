@@ -1,0 +1,3 @@
+Name: Nibbler
+Species: Nibblonian
+Description: Nibbler, from Futurama, is a highly intelligent Nibblonian undercover as a house pet. His species poops dark matter, a valuable starship fuel.

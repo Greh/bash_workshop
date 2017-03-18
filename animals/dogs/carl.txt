@@ -1,0 +1,3 @@
+Name: Carl
+Species: dog
+Description: Carl is a Rottweiler from the 1985 children's picture book 'Good Dog, Carl'. He goes on adventures and takes care of a young girl named Madeleine.

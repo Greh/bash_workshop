@@ -1,0 +1,3 @@
+Name: Old Yeller
+Species: dog
+Description: Old Yeller is a yellow lab from the 1956 children's novel 'Old Yeller'

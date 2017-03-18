@@ -1,0 +1,3 @@
+Name: Kaa
+Species: Rock Python
+Description: A large snake from "The Jungle Book" who uses hypnosis to lure his pray.

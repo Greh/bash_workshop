@@ -1,0 +1,3 @@
+Name: Cheshire Cat
+Species: Cheshire Cat
+Description: The Cheshire Cat, from the Lewis Carroll novel, 'Alice in Wonderland', is a grinning cat with the ability to appear and disappear at will. He speaks to Alice many times, raising philosophical points or speaking complete nonsense to annoy or confuse Alice.
